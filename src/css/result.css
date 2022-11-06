@@ -1,0 +1,85 @@
+.resuit-border{
+    border: 1px solid #E9ECF0;
+    width: 80%;
+    height: 100%;
+    margin-top: 50px;
+    background: #FFFFFF;
+    border: 1px solid #E9ECF0;
+    border-radius: 5px;
+}
+
+.mx {
+    margin: 0 40px;
+}
+.word{
+    padding-top: 44px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    color: black;
+   
+}
+
+.phnotics{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+   gap: 10px;
+}
+.origin{
+    
+font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+color: #000000;
+padding-top: 26px;
+}
+
+.result-div{
+    background-color: #FCFCFC;
+    width: 92%;
+    height: 100%;
+    padding: 10px 0;
+    margin-bottom: 50px;
+}
+
+.results{
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    gap: 5px;
+    padding-top: 21px;
+
+}
+
+.results > p{
+    font-family: 'Inter';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+color: #000000;
+}
+
+.sentence {
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #8C98AD;
+    padding-top: 6px;
+}
+
+.Synonyms{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000; 
+    padding-top: 6px;
+}

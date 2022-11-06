@@ -1,0 +1,30 @@
+.set-svg{
+    font-size: 26px;
+    margin-top: 23px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+   
+}
+
+ h1{
+    border-top:5px solid #000000;
+    height: 5px;
+    width: 114px;
+    margin-top: 19px;
+    /* font-family: ; */
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+#nav{
+    border: 1px solid #E9ECF0;
+    padding-bottom: 19px;
+    /* height: 50px; */
+    width: 100%;
+}
