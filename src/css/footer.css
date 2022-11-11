@@ -11,13 +11,13 @@
     font-weight: 500;
     font-size: 14px;
     line-height: 115.6%;
-    padding-right: 50px;
+    /* padding-right: 50px; */
     
     
 }
 
-.terms{
-    padding-right: 30px;
+.policy{
+    padding-left: 30px;
 }
 
 .footer{
@@ -31,3 +31,8 @@
     font-size: 14px;
     line-height: 115.6%;
 }
+
+
+/* @media screen and (max-width:768px){
+
+} */

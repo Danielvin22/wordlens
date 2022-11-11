@@ -1,11 +1,22 @@
 h2{
-    height: 232px;
-    width: 100%;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
     font-size: 96px;
-    margin: 53px 0px 53px 0px;
-    
+    line-height: 116px;
     color: #0B0A1B;
+    padding: 0px 148px 0px 433px;
+    /* margin: 53px 0px 53px 0px; */
+    
 }
+
+/* @media screen and (max-width:768px){
+    h2{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    padding-left: 29px;
+    
+    }
+} */

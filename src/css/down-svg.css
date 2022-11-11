@@ -8,7 +8,7 @@
 .dawn-svg {
     display: flex;
     justify-content: space-between;
-    padding: 0px 75px 0px 4px;
+    /* padding: 0px 75px 0px 4px; */
 }
 
 .center-word{
@@ -16,7 +16,7 @@
     justify-content: center;
 }
 
-.wordlens{
+.wordlens{ 
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
@@ -31,9 +31,6 @@
     height: 200px;
 }
 
-
-
-
 .second-svg{
     width: 169.56px;
     height: 85.28px;;
@@ -43,11 +40,13 @@
 .last-svg{
     display: flex;
     justify-content: space-between;   
-}
+    padding: 0px 104px 0px 169px; 
+} 
 
 .three-svg{
     width: 200px;
     height: 200px;  
+    /* margin-left: 169px; */
       
 }
 
@@ -55,6 +54,8 @@
     width: 200px;
     height: 200px;     
 }
+
+
 
 .documentation-btn{
     width: 220px;
@@ -68,7 +69,7 @@
     font-weight: 500;
     font-size: 14px;
     line-height: 163.5%;
-    margin-right: 263px;
+    /* margin-right: 263px; */
 }
 
 .paragrah{
@@ -78,5 +79,11 @@
     font-size: 14px;
     line-height: 17px;
     color: #000000;
-    /* padding-right: 60px; */
+    
 }
+
+/* @media screen and (max-width:768px){
+    #dawn-svg{
+        display: none;   
+    } 
+} */
